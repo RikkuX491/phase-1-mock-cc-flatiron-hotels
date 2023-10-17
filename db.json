@@ -1,0 +1,54 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Marriott Hotel",
+      "description": "Location - New York, NY. Number of rooms - 34",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmfRm_2OCAxxj4V-_SwtYobcoGuleqbBUcig&usqp=CAU",
+      "comments": [
+        "I love the Big Apple!",
+        "Welcome to the city that never sleeps!",
+        "It's too noisy here.",
+        "Free breakfast! Yay!"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hampton Inn",
+      "description": "Location - Anaheim, California. Number of rooms - 23",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLS-k_sNGRpMUXWfGk5d8Mc9WGrRWj9A_G9w&usqp=CAU",
+      "comments": [
+        "Best resort ever!!!",
+        "Nice and relaxing vacation"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hyatt Regency",
+      "description": "Location - Honolulu, Hawaii. Number of rooms - 54",
+      "image_url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/03/24/1607/JFKRJ-P0015-Guest-Room-Bed-Pillow.jpg/JFKRJ-P0015-Guest-Room-Bed-Pillow.16x9.jpg?imwidth=1920",
+      "comments": [
+          "So relaxing. I never want to go back home.",
+          "Amazing!"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "The Hilton Resort",
+      "description": "Location - St. George's, Bermuda. Number of rooms - 12",
+      "image_url": "https://www.thehamiltonprincess.com/wp-content/uploads/2021/05/HamPrincess_Fairmont-Room-King.jpg",
+      "comments": [
+        "So relaxing"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Flatiron Resort",
+      "description": "Location - Flatiron Island, Number of rooms - 4",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHhYQCpuI9fxq79mY7DA1y95k0-h_Jkc8ozTr2lfl3CyrjxmkSFxvTIaMKMF3WWxukkM&usqp=CAU",
+      "comments": [
+        "Flatiron School's very own resort! I love it!"
+      ]
+    }
+  ]
+}

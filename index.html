@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Flatiron Hotels</title>
+    <link rel="icon" href="./assets/hotel_icon.png"/>
+    <link
+      href="https://fonts.googleapis.com/css?family=Great+Vibes|Open+Sans:400,600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="styles/main.css" />
+    <script defer type="text/javascript" src="src/index.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>🏨 Flatiron Hotels 🏨</h1>
+      <nav>
+        <ul id="hotel-list">
+          <li>Hotel Name</li>
+          <li>Another Hotel Name</li>
+          <li>And Another Hotel Name</li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <div class="hotel-details">
+        <h2 id="hotel-name">Hotel Name Goes Here</h2>
+        <img
+          id="hotel-image"
+          alt="Hotel Name Goes Here"
+          src="assets/image-placeholder.jpg"
+        />
+        <p>
+          <em id="hotel-description">Hotel Description Goes Here</em>
+        </p>
+
+        <h3>Comments</h3>
+        <ul id="comment-list">
+          <li>Replace with actual comments</li>
+          <li>From the server</li>
+        </ul>
+        <form id="comment-form">
+          <label for="comment">Your Comment:</label>
+          <textarea id="comment"></textarea>
+          <button type="submit">Add comment</button>
+        </form>
+      </div>
+    </main>
+  </body>
+</html>
